@@ -1,0 +1,24 @@
+.navborder{
+	margin-top: -20px;
+
+}
+.col-sm-3{
+background-color: red;
+}
+.col-sm-8{
+background-color: grey;
+}
+body{
+background: #536976;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #292E49, #536976);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #292E49, #536976); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+#headings{
+	color: #77aaff;
+	font-weight: bold;
+
+}
+#headings:hover{
+	color: #ff5566;
+}
